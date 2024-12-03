@@ -244,7 +244,7 @@
                     blackIcon: p,
                     comingSoon: !1
                 },
-                A = [m, w, g, x, b, f, k, v];
+                A = [m, w, b, f];
             var y = t(579),
                 j = t(2729),
                 C = t(9521),
@@ -499,7 +499,7 @@
                                 fill: !0
                             })
                         }), (0, o.jsx)(np, {
-                            children: "CA: dlksdfjkdsfkljsdfjkldfljkfdkljdfskljdfkjlkj"
+                            children: "CA: 0xdlksdfjkdsfkljsdfjkldfljkfdkljdfskljdfkjlkj"
                         })]
                     })
                 }),
@@ -590,13 +590,11 @@
                         }("createTimeline", e, t, i),
                         c = o.ref,
                         a = o.error;
-                    return ng.createElement("div", {
-                        ref: c
-                    }, a && r && r(a))
+                    return ;
                 };
 
             function nC() {
-                let n = (0, j._)(["\n  position: relative;\n  padding: 36px 0;\n\n  height: 572px;\n\n  display: flex;\n  flex-direction: row;\n  align-items: center;\n  justify-content: center;\n\n  background-color: ", ';\n  background-image: url("./assets/Background.png");\n  background-size: cover;\n  background-position: center;\n\n  @media screen and (min-width: ', ") {\n    padding: 48px 0;\n  }\n"]);
+                let n = (0, j._)(["\n  position: relative;\n  padding: 0;\n\n  height: 100px;\n\n  display: flex;\n  flex-direction: row;\n  align-items: center;\n  justify-content: center;\n\n  background-color: ", ';\n  background-image: url("./assets/Background.png");\n  background-size: cover;\n  background-position: center;\n\n  @media screen and (min-width: ', ") {\n    padding: 0;\n  }\n"]);
                 return nC = function() {
                     return n
                 }, n
@@ -917,7 +915,7 @@
                         children: (0, o.jsx)(er, {
                             href: "https://www.okx.com/web3/dex-swap#inputChain=501&inputCurrency=11111111111111111111111111111111&outputChain=501&outputCurrency=5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
                             target: "_blank",
-                            children: "BUY IN OKX DEX"
+                            children: "BUY IN UNISWAP"
                         })
                     })
                 }),

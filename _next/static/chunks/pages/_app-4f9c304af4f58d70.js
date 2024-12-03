@@ -2149,7 +2149,7 @@ to {
                     url: "https://play.mumu.ing",
                     show: !0
                 }, {
-                    label: "Stake",
+                    label: "dfd",
                     url: "https://validator.mumu.ing/",
                     show: !0
                 }, {
