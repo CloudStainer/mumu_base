@@ -442,7 +442,7 @@
             })(nt());
             var nr = () => (0, o.jsx)(ni, {}),
                 no = {
-                    src: "/_next/static/media/base_logo.svg",
+                    src: "/_next/static/media/ether_logo.svg",
                     height: 280,
                     width: 280,
                     blurWidth: 0,
@@ -490,16 +490,16 @@
                 })(nu(), I.Z.breakpoints.medium);
             var nf = () => (0, o.jsx)(nl, {
                     children: (0, o.jsxs)(nd, {
-                        href: "https://basescan.org/token/dlksdfjkdsfkljsdfjkldfljkfdkljdfskljdfkjlkj",
+                        href: "https://etherscan.io/token/0x00000000000000000000000000000000",
                         target: "_blank",
                         children: [(0, o.jsx)(nh, {
                             children: (0, o.jsx)(a(), {
                                 src: no,
-                                alt: "basescan",
+                                alt: "etherscan",
                                 fill: !0
                             })
                         }), (0, o.jsx)(np, {
-                            children: "CA: 0xdlksdfjkdsfkljsdfjkldfljkfdkljdfskljdfkjlkj"
+                            children: "CA: 0x00000000000000000000000000000000"
                         })]
                     })
                 }),
@@ -719,24 +719,24 @@
                         children: "HOW DO I BUY $MUMU?"
                     }), (0, o.jsxs)(nN, {
                         children: [(0, o.jsx)(nW, {
-                            children: "1. Convert some money into Coinbase ($BASE) through a centralized exchange like Binance or Coinbase."
+                            children: "1. Convert some money into Etherum ($ETH) through a centralized exchange like Binance or Coinbase."
                         }), (0, o.jsxs)(nW, {
                             children: ["2. Create a brand new wallet with", " ", (0, o.jsx)("a", {
-                                href: "https://phantom.app/",
+                                href: "https://metamask.io/",
                                 target: "_blank",
-                                children: "Phantom App"
+                                children: "Metamask"
                             }), ", keep your seed phrase safe, write it down on a piece of paper you can keep safety!"]
                         }), (0, o.jsx)(nW, {
-                            children: "3. Copy the Coinbase wallet address and send some Coinbase from your exchange account to your phantom wallet address."
+                            children: "3. Copy the Ethereum wallet address and send some Etherum from your exchange account to your Metamask wallet address."
                         }), (0, o.jsxs)(nW, {
                             children: ["4. Now visit an exchange platform such as", " ", (0, o.jsx)("a", {
-                                href: "https://raydium.io",
+                                href: "https://app.uniswap.org",
                                 target: "_blank",
-                                children: "Raydium"
-                            }), " ", "(via our buy button if you're having trouble) and head over to 'Swap.' Connect your phantom wallet when prompted."]
+                                children: "Uniswap"
+                            }), " ", "(via our buy button if you're having trouble) and head over to 'Swap.' Connect your Metamask wallet when prompted."]
                         }), (0, o.jsxs)(nW, {
-                            children: ["5. Swap the Coinbase in your wallet for Mumu, you can find Mumu as an option by pasting in the contract address below:", (0, o.jsx)("br", {}), (0, o.jsx)(nK, {
-                                children: "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA"
+                            children: ["5. Swap the Ethereum in your wallet for Mumu, you can find Mumu as an option by pasting in the contract address below:", (0, o.jsx)("br", {}), (0, o.jsx)(nK, {
+                                children: "0x000000000000000000000000000000000000000"
                             })]
                         })]
                     }), (0, o.jsx)(nD, {
@@ -913,7 +913,7 @@
             var eo = () => (0, o.jsx)(et, {
                     children: (0, o.jsx)(ei, {
                         children: (0, o.jsx)(er, {
-                            href: "https://www.okx.com/web3/dex-swap#inputChain=501&inputCurrency=11111111111111111111111111111111&outputChain=501&outputCurrency=5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+                            href: "https://app.uniswap.org/",
                             target: "_blank",
                             children: "BUY IN UNISWAP"
                         })

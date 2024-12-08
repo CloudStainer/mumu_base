@@ -2142,7 +2142,7 @@ to {
                 })(tl()),
                 t_ = [{
                     label: "Buy",
-                    url: "https://raydium.io/swap/?outputCurrency=5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA",
+                    url: "l,https://app.uniswap.org//swap/?outputCurrency=0x0000000000000000000000000000000000000",
                     show: !1
                 }, {
                     label: "Play",
@@ -2182,13 +2182,6 @@ to {
                                 }), (0, l.jsx)(tf, {
                                     children: "$MUMU"
                                 })]
-                            }), (0, l.jsx)(tx, {
-                                onClick: s,
-                                children: (0, l.jsx)(eC(), {
-                                    src: eq,
-                                    alt: "Menu",
-                                    fill: !0
-                                })
                             })]
                         })
                     }), r && (0, l.jsx)(tm, {
@@ -2237,14 +2230,7 @@ to {
                                 children: [(0, l.jsx)(tp, {
                                     label: t_[0].label,
                                     url: t_[0].url
-                                }, t_[0].label), (0, l.jsx)(tx, {
-                                    onClick: s,
-                                    children: (0, l.jsx)(eC(), {
-                                        src: eq,
-                                        alt: "Menu",
-                                        fill: !0
-                                    })
-                                })]
+                                }, t_[0].label)]
                             })]
                         }), r && (0, l.jsx)(tw, {
                             children: t_.map(e => {
